@@ -135,7 +135,7 @@ http://giahan2020.duckdns.org:4025/rtp/232.84.1.216:9270
 http://giahan2020.duckdns.org:4025/rtp/232.84.1.215:9264
 #EXTINF:-1 tvg-name="VOVTV" group-title="VTC" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
 http://giahan2020.duckdns.org:4025/rtp/232.84.1.46:8256
-#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SCTV#
+# SCTV#
 #EXTINF:-1 tvg-id="sctv1" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/SCTV1_logo.png/revision/latest/scale-to-width-down/340?cb=20191009032102",SCTV1| Hài
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_Hai_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY= 
