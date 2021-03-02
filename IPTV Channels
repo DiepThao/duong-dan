@@ -7,7 +7,7 @@
 
 <ul>
 <?php
-$file = './listvnpt.m3u'; //IPTV-playlist
+$file = './mytv_26022021.m3u'; //IPTV-playlist
 $searchfor = '#EXTINF:-1';//Pattern for searching
 
 $contents = file_get_contents($file);
