@@ -22,6 +22,70 @@ http://giahan2020.duckdns.org:4025/rtp/232.84.2.34:10612
 http://giahan2020.duckdns.org:4025/rtp/232.84.3.104:10612
 #EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9 HD (HD 6Mbps)
 http://giahan2020.duckdns.org:4025/rtp/232.84.2.35:10618
+#------SCTV-----#
+#EXTINF:-1 tvg-id="sctv1" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/SCTV1_logo.png/revision/latest/scale-to-width-down/340?cb=20191009032102",SCTV1| Hài
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv1
+#EXTINF:-1 tvg-id="sctv2_hd" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3b/SCTV2_logo_2017.png/revision/latest/scale-to-width-down/340?cb=20201119114104&path-prefix=vi",SCTV2| AMC
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv2
+#EXTINF:-1 tvg-id="sctv3_see_tv" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/SCTV3.png/revision/latest/scale-to-width-down/340?cb=20201202045951&path-prefix=vi",SCTV3| Thiếu Nhi
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv3
+#EXTINF:-1 tvg-id="sctv4" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/SCTV4_HD.png/revision/latest/scale-to-width-down/340?cb=20201023121045&path-prefix=vi",SCTV4| Giải Trí
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv4
+#EXTINF:-1 tvg-id="sctv6_hd" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/SCTV6.png/revision/latest/scale-to-width-down/340?cb=20201202050044&path-prefix=vi",SCTV6| Thế Hệ Mới
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv6
+#EXTINF:-1 tvg-id="sctv7_hd" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/4/46/SCTV7_logo_2017.png/revision/latest/scale-to-width-down/340?cb=20201202040429&path-prefix=vi",SCTV7| Sân Khấu
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv7
+#EXTINF:-1 tvg-id="sctv8" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b5/SCTV8_HD.png/revision/latest/scale-to-width-down/340?cb=20201022115013&path-prefix=vi",SCTV8| Kinh Tế
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv8
+#EXTINF:-1 tvg-id="sctv9" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/SCTV9_logo_2017.png/revision/latest/scale-to-width-down/340?cb=20201110020407",SCTV9| Phim Châu Á
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv9
+#EXTINF:-1 tvg-id="sctv11_tv_star" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/35/SCTV11_logo_2017-present.png/revision/latest/scale-to-width-down/340?cb=20201018090143&path-prefix=vi",SCTV11| Văn Hóa Nghệ Thuật
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv11
+#EXTINF:-1 tvg-id="sctv12" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ab/SCTV12_logo_2017.png/revision/latest/scale-to-width-down/340?cb=20201127035429&path-prefix=vi",SCTV12| Du Lịch & Khám Phá
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv12
+#EXTINF:-1 tvg-id="sctv13_hd_tvf" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/SCTV13-0.png/revision/latest/scale-to-width-down/340?cb=20201011111414&path-prefix=vi",SCTV13| Phụ Nữ
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv13
+#EXTINF:-1 tvg-id="sctv14_phim_viet" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/SCTV14.png/revision/latest/scale-to-width-down/340?cb=20201011105058&path-prefix=vi",SCTV14| Phim Việt
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv14
+#EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b2/SCTV15_SSport2_logo_12-2020.png/revision/latest/scale-to-width-down/340?cb=20210127142513&path-prefix=vi",SCTV15| Sport 2
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv15
+#EXTINF:-1 tvg-id="sctv16" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/SCTV16-2.png/revision/latest/scale-to-width-down/340?cb=20201026040125&path-prefix=vi",SCTV16 | Phim Nước Ngoài
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv16
+#EXTINF:-1 tvg-id="sctv17_hd" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/7/77/SCTV17_SSport_logo_12-2020.png/revision/latest/scale-to-width-down/340?cb=20210127142428&path-prefix=vi",SCTV17| Sport
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv17
+#EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/SCTV18_logo_2017.png/revision/latest/scale-to-width-down/340?cb=20201126061119&path-prefix=vi",SCTV18| Kênh 18
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv18
+#EXTINF:-1 tvg-id="sctv19" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV19.png/revision/latest/scale-to-width-down/340?cb=20201021060457&path-prefix=vi",SCTV19| T channel
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv19
+#EXTINF:-1 tvg-id="sctv20" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/SCTV20.png/revision/latest/scale-to-width-down/340?cb=20201021060127&path-prefix=vi",SCTV20| Ca Nhạc
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv20
+#EXTINF:-1 tvg-id="ctv22" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/SCTV22_SSport_1_logo_12-2020.png/revision/latest/scale-to-width-down/340?cb=20210127142239&path-prefix=vi",SCTV22| Sport 1
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctv22
+#EXTINF:-1 tvg-id="sctv5" group-title="SCTV " tvg-logo="https://i.imgur.com/M46Ojrv.png",BTV5| Sport 3
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocabtv5
+#EXTINF:-1 tvg-id="sctv_phim_tong_hop" group-title="SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/2/22/SCTV_PTH_LOGO_2017.png/revision/latest/scale-to-width-down/340?cb=20201206083511&path-prefix=vi",SCTV Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cocasctvpth
 #------------------------VTVcab------------------------#
 #EXTINF:-1 tvg-name="VTVcab 1 - Giải Trí TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/fVDS1c7.jpg",VTVcab 1 Vie GIẢI TRÍ
 http://giahan2020.duckdns.org:4025/rtp/232.84.1.143:8832
